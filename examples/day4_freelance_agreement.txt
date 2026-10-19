@@ -1,0 +1,30 @@
+SYNTHETIC DAY 4 AGREEMENT - NOT A REAL CLIENT CONTRACT
+
+Project: Product launch photography.
+Currency: USD. All project fees and milestone payments are in USD.
+Total project value: USD 2,400.00.
+
+Milestone 1: Planning and shot list.
+Amount: USD 600.00.
+Deliverable: A shot list and styling brief.
+Payment condition: Due after the client approves the shot list in writing.
+Deadline: 2026-11-01.
+Acceptance criterion: The shot list covers 20 products and three views for each product.
+
+Milestone 2: Product photography.
+Amount: USD 900.00.
+Deliverable: Sixty retouched product photographs.
+Payment condition: Due after the client accepts the photographs in writing.
+Deadline: 2026-11-12.
+Acceptance criterion: Sixty JPEG files are delivered with a minimum width of 3000 pixels.
+
+Milestone 3: Campaign handover.
+Amount: USD 900.00.
+Deliverable: Three social media crop sets.
+Payment condition: Due shortly after the client is satisfied with the campaign materials.
+Deadline: To be agreed.
+Acceptance criterion: The campaign materials should look polished enough.
+
+The phrases "shortly after", "satisfied", and "polished enough" are intentionally ambiguous.
+The parties must clarify campaign timing and acceptance criteria before approving that milestone.
+Changes beyond these deliverables require separately agreed scope and fees.

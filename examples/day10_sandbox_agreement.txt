@@ -1,0 +1,33 @@
+SYNTHETIC DAY 10 WALKTHROUGH — no real commercial services.
+Project: Community launch page walkthrough.
+Currency: USD.
+Total project value: USD 3.00.
+
+The fictional freelancer will design and deliver one responsive community landing page.
+All names, deliverables and amounts are synthetic sandbox test data.
+
+Milestone 1: Landing page wireframe.
+Amount: USD 1.00.
+Deliverable: One landing page wireframe as a PNG.
+Payment condition: USD 1.00 is due after written client acceptance of the wireframe.
+Deadline: 2026-11-02.
+Acceptance criterion: The PNG shows a title, introduction and contact section.
+
+Milestone 2: Responsive page.
+Amount: USD 1.00.
+Deliverable: One responsive landing page with the approved text and colours.
+Payment condition: USD 1.00 is due after written client acceptance of the responsive page.
+Deadline: 2026-11-05.
+Acceptance criterion: The page displays the approved text and colours on desktop and mobile.
+
+Milestone 3: Source handover.
+Amount: USD 1.00.
+Deliverable: One archive containing the landing page source and setup instructions.
+Payment condition: USD 1.00 is due after written client acceptance of the source archive.
+Deadline: 2026-11-09.
+Acceptance criterion: The archive includes the source files and readable setup instructions.
+
+Two rounds of text and colour revisions to the landing page are included.
+Online ticket sales, payment processing and shopping cart functionality are excluded from this agreement.
+Reasonable launch support is included; the duration and channels of support will be agreed later.
+No invoice may be created, sent or paid automatically; each sandbox action needs separate human authorization.

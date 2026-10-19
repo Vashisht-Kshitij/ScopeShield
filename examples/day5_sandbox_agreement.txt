@@ -1,0 +1,31 @@
+SYNTHETIC SANDBOX TEST AGREEMENT — not a real commercial agreement.
+Project: Museum postcard illustration test.
+Currency: USD.
+Total project value: USD 3.00.
+
+The synthetic freelancer will create test illustration assets for a fictional museum.
+All parties and amounts are test data for sandbox invoicing; no real service is sold.
+
+Milestone 1: Postcard sketch.
+Amount: USD 1.00.
+Deliverable: One pencil-style museum postcard sketch as a PNG.
+Payment condition: USD 1.00 is due after the client accepts the sketch in writing.
+Deadline: 2026-11-03.
+Acceptance criterion: The PNG shows the museum facade and a readable placeholder title.
+
+Milestone 2: Color artwork.
+Amount: USD 1.00.
+Deliverable: One colored postcard artwork as a 2000 by 1400 pixel PNG.
+Payment condition: USD 1.00 is due after written acceptance of the color artwork.
+Deadline: 2026-11-10.
+Acceptance criterion: The PNG has exactly 2000 by 1400 pixels and contains no watermarks.
+
+Milestone 3: Print handover.
+Amount: USD 1.00.
+Deliverable: One print-ready postcard PDF and the editable illustration file.
+Payment condition: Payment is due shortly after the client is satisfied with the handover.
+Deadline: To be agreed.
+Acceptance criterion: The handover looks polished enough for the museum campaign.
+
+The third milestone has deliberately ambiguous payment and acceptance wording.
+No invoice may be sent or paid automatically; every sandbox draft creation is a separate operator action.

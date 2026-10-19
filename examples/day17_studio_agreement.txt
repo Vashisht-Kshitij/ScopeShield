@@ -1,0 +1,10 @@
+SYNTHETIC DEMONSTRATION AGREEMENT — not a real client contract
+Project: Cedar Studio landing page
+Deliverables: one responsive landing page with the Home, About and Contact sections.
+Two rounds of text and colour revisions to the landing page are included.
+Additional sections and a content management system are excluded from the agreed deliverables.
+The agreed delivery date is 2026-11-20; an earlier delivery requires a separately agreed schedule.
+Defects against the agreed acceptance criteria will be corrected during acceptance review.
+Ongoing maintenance, hosting administration and weekend support are excluded.
+The client will provide written feedback and approve the final page against the agreed sections.
+New deliverables, revision rounds or service obligations require a written change order and mutual agreement.

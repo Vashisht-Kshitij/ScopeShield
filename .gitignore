@@ -1,0 +1,39 @@
+
+# Secrets
+.env
+.env.*
+!.env.example
+!.env.offline.example
+*.pem
+*.key
+*.pub
+*.p12
+*.pfx
+.azure/
+.ssh/
+.npmrc
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local files
+*.log
+.DS_Store
+
+# Preserve the supplied upgrade locally; integrated source lives in app/ and tests/.
+/scopeshield_day2_upgrade/
+
+# Local server logs, process metadata, and verification output.
+/.local/
+
+# Contract data must stay local, including SQLite sidecar files.
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+*.instance.lock

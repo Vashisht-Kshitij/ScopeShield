@@ -1,0 +1,6 @@
+{
+  "policy": "day23-evidence-backup-v1",
+  "sqliteMaximumBytes": 1073741824,
+  "encryptedBackupMaximumBytes": 1074790400,
+  "contractQuotes": "validated-range-or-unique-occurrence"
+}

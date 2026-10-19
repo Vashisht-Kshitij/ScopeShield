@@ -1,0 +1,20 @@
+[Unit]
+Description=ScopeShield consistent encrypted backup (no pruning)
+RequiresMountsFor=/srv/scopeshield-data
+After=scopeshield-api.service
+
+[Service]
+Type=oneshot
+User=scopeshield
+Group=scopeshield
+WorkingDirectory=/opt/scopeshield
+EnvironmentFile=/etc/scopeshield/backend.env
+ExecStart=/opt/scopeshield/.venv/bin/python /opt/scopeshield/deploy/azure/host/manage.py backup
+UMask=0077
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/srv/scopeshield-data
+MemoryMax=768M
+TasksMax=30

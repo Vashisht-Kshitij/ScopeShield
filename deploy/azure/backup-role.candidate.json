@@ -1,0 +1,15 @@
+{
+  "Name": "ScopeShield encrypted backup read-write candidate",
+  "IsCustom": true,
+  "Description": "REVIEW ONLY: blob upload and read-back, without delete, delegation or control-plane permissions. Not wired into the approved infrastructure candidate.",
+  "Actions": [],
+  "NotActions": [],
+  "DataActions": [
+    "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read",
+    "Microsoft.Storage/storageAccounts/blobServices/containers/blobs/write"
+  ],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/subscriptions/REPLACE_WITH_APPROVED_SUBSCRIPTION/resourceGroups/scopeshield-rg"
+  ]
+}

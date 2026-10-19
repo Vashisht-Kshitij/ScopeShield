@@ -1,0 +1,36 @@
+SYNTHETIC DEMONSTRATION AGREEMENT - not a real client contract.
+Project: Cedar community launch page.
+Currency: USD.
+Total project value: USD 1500.00.
+
+The fictional freelancer will deliver one responsive landing page with Home, About and Contact sections.
+All people, dates, messages and amounts in this example are fictional.
+
+Milestone 1: Landing page wireframe.
+Amount: USD 500.00.
+Deliverable: One landing page wireframe as a PNG.
+Payment condition: USD 500.00 is due after written client acceptance of the wireframe.
+Deadline: 2026-11-10.
+Acceptance criterion: The PNG shows the Home, About and Contact sections.
+
+Milestone 2: Responsive landing page.
+Amount: USD 500.00.
+Deliverable: One responsive page containing the approved text and colours.
+Payment condition: USD 500.00 is due after written client acceptance of the responsive page.
+Deadline: 2026-11-17.
+Acceptance criterion: The approved sections display on desktop and mobile.
+
+Milestone 3: Source handover.
+Amount: USD 500.00.
+Deliverable: One archive containing page source and setup instructions.
+Payment condition: USD 500.00 is due after written client acceptance of the archive.
+Deadline: 2026-11-20.
+Acceptance criterion: The archive contains source files and readable setup instructions.
+
+Two rounds of text and colour revisions to the landing page are included.
+Additional sections and a content management system are excluded from the agreed deliverables.
+The agreed delivery date is 2026-11-20; an earlier delivery requires a separately agreed schedule.
+Defects against the agreed acceptance criteria will be corrected during acceptance review.
+Ongoing maintenance, hosting administration and weekend support are excluded.
+New deliverables, revision rounds or service obligations require a written change order and mutual agreement.
+No invoice is created or sent automatically. This fictional agreement is not evidence of work acceptance or payment.

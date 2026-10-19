@@ -1,0 +1,6 @@
+# Preserve the exact approved synthetic source bytes across Windows checkouts.
+examples/gemini_verified_contract.txt text eol=lf
+examples/day10_sandbox_agreement.txt text eol=lf
+
+deploy/azure/**/*.sh text eol=lf
+deploy/azure/*.bicep text eol=lf

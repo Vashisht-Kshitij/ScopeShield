@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "location": { "value": "indonesiacentral" },
+    "imageVersion": { "value": "REPLACE_WITH_PINNED_IMAGE_VERSION" },
+    "administratorSshCidr": { "value": "" },
+    "securityType": { "value": "TrustedLaunch" },
+    "operatorPrincipalId": { "value": "REPLACE_WITH_EXISTING_OPERATOR_USER_OBJECT_ID" },
+    "operatorStorageCidr": { "value": "" }
+  }
+}

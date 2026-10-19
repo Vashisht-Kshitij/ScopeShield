@@ -1,0 +1,15 @@
+SYNTHETIC AGREEMENT - fictional parties and project, for offline demonstration only.
+Project: Cedar Library Event Microsite
+Client: Cedar Library Friends (fictional)
+Freelancer: Northstar Web Studio (fictional)
+Agreement version: CL-2026-01
+
+Scope: The freelancer will deliver one responsive event landing page and one email signup form.
+Acceptance: The page must display the client-supplied event title, venue, date and schedule on mobile and desktop. The signup form must validate email addresses and show a confirmation message.
+Revisions: Two rounds of text and colour revisions to the landing page are included.
+Exclusion: Online ticket sales, payment processing and shopping cart functionality are excluded from this agreement.
+Handover: Reasonable launch support is included; the duration and channels of support will be agreed later.
+
+Total fee: USD 600.00, payable after the client accepts the page and signup form in writing.
+Delivery deadline: 2026-11-20.
+Any additional work requires a separately reviewed written change order. No additional-work price or deadline is agreed in this document.

@@ -1,0 +1,30 @@
+SYNTHETIC DEMONSTRATION CONTRACT - NOT A REAL CLIENT AGREEMENT
+
+Project: Website Redesign.
+Currency: USD. All project fees and milestone payments are in USD.
+Total project value: USD 1,500.00.
+
+The freelancer will provide a requirements brief, responsive design mockups, and a deployed five-page website.
+
+Milestone 1: Discovery and requirements.
+Amount: USD 500.00.
+Deliverable: A requirements brief.
+Payment condition: Due after the client accepts the requirements brief in writing.
+Deadline: 2026-10-25.
+Acceptance criterion: The brief lists the five pages and the client's functional requirements.
+
+Milestone 2: Design approval.
+Amount: USD 500.00.
+Deliverable: Responsive design mockups.
+Payment condition: Due after the client approves the mockups in writing.
+Deadline: 2026-11-05.
+Acceptance criterion: Mockups show desktop and mobile layouts for all five pages.
+
+Milestone 3: Website delivery.
+Amount: USD 500.00.
+Deliverable: A deployed five-page website.
+Payment condition: Due after the client accepts the deployed website in writing.
+Deadline: 2026-11-20.
+Acceptance criterion: All five pages load and the agreed contact form passes a submission test.
+
+Changes outside these deliverables require a separately approved written scope and fee agreement.

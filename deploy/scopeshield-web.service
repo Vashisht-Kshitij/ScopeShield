@@ -1,0 +1,26 @@
+[Unit]
+Description=ScopeShield production frontend
+After=network.target scopeshield-api.service
+
+[Service]
+User=scopeshield
+Group=scopeshield
+WorkingDirectory=/opt/scopeshield/frontend
+# Node 24 and pnpm 11.25.0 must be installed in /usr/local/bin.
+Environment=PATH=/usr/local/bin:/usr/bin:/bin
+Environment=NODE_ENV=production
+Environment=NEXT_TELEMETRY_DISABLED=1
+ExecStart=/usr/local/bin/pnpm start
+Restart=on-failure
+RestartSec=5
+UMask=0077
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/opt/scopeshield/frontend/.next
+MemoryMax=600M
+TasksMax=100
+
+[Install]
+WantedBy=multi-user.target

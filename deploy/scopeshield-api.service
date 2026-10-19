@@ -1,0 +1,25 @@
+[Unit]
+Description=ScopeShield single-process API
+After=network.target
+RequiresMountsFor=/srv/scopeshield-data
+
+[Service]
+User=scopeshield
+Group=scopeshield
+WorkingDirectory=/opt/scopeshield
+EnvironmentFile=/etc/scopeshield/backend.env
+Environment=PYTHONDONTWRITEBYTECODE=1
+ExecStart=/opt/scopeshield/.venv/bin/python -m scripts.serve_production
+Restart=on-failure
+RestartSec=5
+UMask=0077
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/srv/scopeshield-data
+MemoryMax=1200M
+TasksMax=100
+
+[Install]
+WantedBy=multi-user.target

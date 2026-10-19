@@ -1,0 +1,29 @@
+SYNTHETIC TEST AGREEMENT - no real client or engagement
+Project: Community Reading Room Guide
+Currency: USD
+Total project value: USD 300.00.
+Scope: Design a one-page reading-room guide, supply its accessible PDF, and deliver the final print layout.
+Scope limit: Interactive booking forms and reminder emails are excluded.
+
+Milestone 1: Outline draft
+Amount: USD 60.00.
+Payment condition: Pay after written approval of the outline draft.
+Deadline: 2026-11-03.
+Deliverable: Outline draft.
+Acceptance criterion: The outline draft includes the reading-room sections supplied by the client.
+
+Milestone 2: Accessible guide
+Amount: USD 90.00.
+Payment condition: Pay after delivery of the accessible guide PDF.
+Deadline: 2026-11-10.
+Deliverable: Accessible guide PDF.
+Acceptance criterion: The accessible guide PDF contains selectable text and a logical reading order.
+
+Milestone 3: Final print layout
+Amount: USD 150.00.
+Payment condition: Pay after the client's satisfactory review; satisfactory is not defined.
+Deadline: To be agreed after venue confirmation; no fixed date is stated.
+Deliverable: Final print layout.
+Acceptance criterion: The final print layout uses the approved guide content and the client's satisfactory review.
+
+Ambiguity notice: The meaning of satisfactory review and the final delivery date require clarification. No extra fee, automatic approval, or additional revision entitlement is established by this uncertainty.

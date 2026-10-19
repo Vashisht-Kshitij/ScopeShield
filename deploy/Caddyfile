@@ -1,0 +1,33 @@
+# Template: replace this hostname AND backend/frontend environment values together.
+# Only 80/443 are public. Do not configure upstream/CDN proxy trust here.
+demo.example.com {
+    header {
+        Strict-Transport-Security "max-age=31536000"
+        X-Content-Type-Options nosniff
+        X-Frame-Options DENY
+        Referrer-Policy same-origin
+        Permissions-Policy "camera=(), microphone=(), geolocation=()"
+        # Preserve the original-PDF endpoint's stricter sandbox policy.
+        ?Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self'"
+        -Server
+    }
+    @private path /.env* /.git* /.local* /docs /redoc /openapi.json
+    respond @private 404
+    @api path /api/* /health
+    handle @api {
+        request_body {
+            max_size 6MB
+        }
+        reverse_proxy 127.0.0.1:8000 {
+            header_up Host demo.example.com
+            header_up -Forwarded
+            header_up -X-Forwarded-Host
+            header_up -X-Real-IP
+            header_up X-Forwarded-For {http.request.remote.host}
+            header_up X-Forwarded-Proto https
+        }
+    }
+    handle {
+        reverse_proxy 127.0.0.1:3000
+    }
+}

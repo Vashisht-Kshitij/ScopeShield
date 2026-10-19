@@ -1,0 +1,21 @@
+SYNTHETIC FREELANCE AGREEMENT - test data only.
+
+Project: Community garden map.
+Currency: USD.
+Total project value: USD 100.00.
+
+Milestone 1: Draft map.
+Amount: USD 40.00.
+Deliverable: One PNG map showing five planting beds.
+Payment condition: USD 40.00 is due after written acceptance of the draft map.
+Deadline: 2026-11-02.
+Acceptance criterion: The PNG includes five labeled beds and a north arrow.
+
+Milestone 2: Final map.
+Amount: USD 60.00.
+Deliverable: One editable SVG map and one PDF export.
+Payment condition: USD 60.00 is due after written acceptance of the final map.
+Deadline: 2026-11-09.
+Acceptance criterion: The SVG and PDF show the same five labeled beds and a legend.
+
+This fictional agreement authorizes no invoice, message or payment action.

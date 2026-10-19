@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+coverage/
+test-results/
+.pnpm-store/
+.env*
+!.env.example
+*.tsbuildinfo
+next-env.d.ts
